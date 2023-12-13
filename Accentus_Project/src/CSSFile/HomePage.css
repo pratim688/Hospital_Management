@@ -1,0 +1,59 @@
+/* .background_image{
+  background-image:url("C:/Users/prati/OneDrive/Desktop/2c586b818e3f26866b7919644e7b0c8e7a9f904b.jpg");
+} */
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image:url("C:/Users/prati/OneDrive/Desktop/360_F_608650310_Q7Jdo1q3h2hfev7FMSv0KEMNFO924jpJ.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  font-family: 'Arial', sans-serif;
+ 
+}
+
+.home-page {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+
+}
+
+.navbar {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 2.2em;
+  font-weight: bold;
+  margin-left: 2em;
+  color: #e34e87;
+ 
+}
+
+.nav-buttons button {
+  background-color: #2ecc71;
+  color: #fff;
+  padding: 8px 16px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.welcome-message {
+  margin-top: 20px;
+ 
+
+}
+
+/* Add more styles as needed */
